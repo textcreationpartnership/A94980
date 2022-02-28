@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and strange relation of a boy, who was entertained by the devill to be servant to him with the consent of his father, about Crediton in the west, and how the devill carried him up in the aire, and shewed him the torments of Hell, and some of the cavaliers there, and what preperation there was made for Goring and Greenvile against they came. Also how the cavaliers went to robbe a carrier, and how the carrier and his horses turned themselves into flames of fire. With a coppie of a letter from Maior Generall Massie, concerning these strange and wonderfull things, with a certaine box of reliques and crucifixes found in Tiverton church.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94980</idno>
+            <idno type="STC">Wing T2582</idno>
+            <idno type="STC">Thomason E311_12</idno>
+            <idno type="STC">ESTC R200458</idno>
+            <idno type="EEBO-CITATION">99861199</idno>
+            <idno type="PROQUEST">99861199</idno>
+            <idno type="VID">158892</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94980)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158892)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 51:E311[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and strange relation of a boy, who was entertained by the devill to be servant to him with the consent of his father, about Crediton in the west, and how the devill carried him up in the aire, and shewed him the torments of Hell, and some of the cavaliers there, and what preperation there was made for Goring and Greenvile against they came. Also how the cavaliers went to robbe a carrier, and how the carrier and his horses turned themselves into flames of fire. With a coppie of a letter from Maior Generall Massie, concerning these strange and wonderfull things, with a certaine box of reliques and crucifixes found in Tiverton church.</title>
+                  <author>Massey, Edward, Sir, 1619?-1674?</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.H.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb: 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Demoniac possession --  England --  Early works to 1800.</term>
+               <term>Curiosities and wonders --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649. --  Religious aspects</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158892:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 37 -->
+            <p>A true and ſtrange RELATION OF A BOY, Who was entertained by the Devill to be Servant to him with the conſent of his Father, about <hi>Crediton</hi> in the Weſt, and how the Devill carried him up in the aire, and ſhewed him the torments of Hell, and ſome of the Cavaliers there, and what preperation there was made for <hi>Goring</hi> and <hi>Greenvile</hi> againſt they came.</p>
+            <p>Alſo how the Cavaliers went to robbe a Carrier, and how the Carrier and his Horſes turned themſelves into flames of fire.</p>
+            <p>With a Coppie of a Letter from Maior Generall <hi>Maſſie,</hi> concerning theſe ſtrange and wonderfull things, with a certaine Box of Reliques and Crucifixes found in <hi>TIVERTON</hi> Church.</p>
+            <figure>
+               <figDesc>Hermes or Mercury, carrying a staff of his astrological symbol, and a written paper</figDesc>
+            </figure>
+            <p>London, Printed by <hi>J. H.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:158892:2"/>
+            <!-- PDF PAGE 38 -->
+            <pb n="1" facs="tcp:158892:2"/>
+            <!-- PDF PAGE 38 -->
+            <head>A true and perfect Relation of a Boy that bound himſelf Apprentice to the Devill, <hi>and related what</hi> Cavaliers <hi>be ſaw tormented in</hi> HELL.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HAT the <hi>Devill</hi> hath bin a grand impoſter ever ſince the worlds infancie, and doth ſtill proſecute his inveterate enmity againſt <hi>Adams</hi> Progenie, ſeeking by variety of ſtratagems and cunning de<g ref="char:EOLhyphen"/>luſions, firſt to entrap, and then utterly to ſub<g ref="char:EOLhyphen"/>vert all men of what Ranke or Qualitie ſoever: Is ſuch an infallible Axiom and Tenent of Chriſti<g ref="char:EOLhyphen"/>anitie, as needs no further proofe; conſidering that every day proceedeth one or other memorable paſſage, wherein is detected the policie of that roaring Lyon, who by divine permiſſion doth inſinuate himſelf with the Children of diſobedience, and ſtirres them up to the perpetrating of moſt odious and execrable actions; but in the end payes them home, with the due reward of all their de<g ref="char:EOLhyphen"/>linquencies, ſo that their very memorie is abhorred of all poſteri<g ref="char:EOLhyphen"/>tie.</p>
+            <p>The matter which we are now to treate of may ſeeme to paſſe the bounds of humane conceit and credulity, but if wee duly examine that divers Subjects of the like nature have iſſued from the Pens of moſt worthy and approved Authors both ancient and moderne, wee need not queſtion any of the circumſtances here inſerted. For that <hi>Satan</hi> can transforme himſelfe into an Angell of light, is ſufficiently teſtified by holy Writ, and appeareth in that notable deluſion which he puts upon <hi>Saul</hi> at his reparing to the Witch of <hi>Endor</hi> about the raiſing up of <hi>Samuells</hi> Ghoſt. But to be briefe, the verity of this ſubſequent treatiſe is already confirmed by ſundry perſons of good
+<pb n="2" facs="tcp:158892:3"/>
+               <!-- PDF PAGE 39 -->ranke and quality inhabiting about the place where it happened, as I ſhall briefly declare.</p>
+            <p>In the County of <hi>Devon</hi> at a Market Town called <hi>Bow,</hi> liveth one <hi>John Buxford</hi> by profeſſion a Worſted-comber having a Son named <hi>Joſeph,</hi> aged fifteene years or thereabouts, whom he had bound Ap<g ref="char:EOLhyphen"/>prentice to a Weaver, named <hi>Simon Culiver</hi> dwelling in <hi>Crediton:</hi> this <hi>Joſeph</hi> being a ſtubborne and untowardly Boy, could not brooke his Maſters ſervice, but after a Moneths time ſecretly departed away to the Kings Army with one <hi>Byerly</hi> a Leiutenant to a Troop of Horſe in the Lord of <hi>Cleavelands</hi> Brigade, with whom he continued a roguiſh courſe of life; moſt of this laſt Summer till the defeat which the Cavaliers received at <hi>Langport-Moore,</hi> where the Leiutenant his Maſter loſt his Horſe, and cloathes, and the Boy was ſtripped and turned into ragges: ſo that ſeeing no probability to be furniſhed with apparell from his Maſter, he came home to the old man his fa<g ref="char:EOLhyphen"/>the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who cloathed him and would have had him returne to the Wea<g ref="char:EOLhyphen"/>ver againe, but no perſwaſions or entreaties could prevaile or worke upon the froward diſpoſition of this obſtinate and diſobedient Boy, which ſo incenſed the old man, that he ſwore in great fury, that if he would not conſent to goe to the Weaver, he would bin him Appren<g ref="char:EOLhyphen"/>tice to the Devill, which raſh and in conſiderate threatnings, he oft<g ref="char:EOLhyphen"/>en times uſed and repeated, but perceiving that words tooke ſmall ef<g ref="char:EOLhyphen"/>fect, he determined to take a more rigerous courſe, and ſhortly put the ſame in execution.</p>
+            <p>Upon the fifth day of <hi>November</hi> in the morning, he charged the Boy to prepare himſelf for to goe along with him to <hi>Crediton,</hi> which the Boy preſently refuſed, <hi>ſaying he would rather go to the Devill:</hi> whereupon the old man taking him by the arme did fall a beating of him, ſo that by meere force compelled him along, (the Boy all the time uſing many bitter execrations, and the father beſtowing many grievous ſtripes up on his ſhoulders) contiuning this poſture for a<g ref="char:EOLhyphen"/>bove balfe a miles diſtance from the Towne, which they met with a Carrier driving before him foure Horſes loaden with packes of Cloath, who ſeemed to this <hi>John Buxford</hi> to be one whom he had often obſerved to frequend the Roade. The Carrier very courtiouſly demanded of him why he uſed ſuch ſeveritie towards the boy; wher<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon he willing to ſatisfie him, told him all the circumſtances of his
+<pb n="3" facs="tcp:158892:3"/>
+               <!-- PDF PAGE 39 -->Sonnes refractory behaviour in running from his Maſter, and his un<g ref="char:EOLhyphen"/>willingnes to take any good courſe of life, or honeſt vocation for his future maintainance. The Carrier replyed, that, <hi>it was pitty the Boy ſhould miſcarry by undertaking a forced ſervice upon him: But if they two could agree, and that the Boy were willing to goe a long with him, he doubted not but he ſhould find a Maſter for him, and ſuch employment as would put him in the way to gaine a compleat estate to maintaine himſelf and helpe his friends.</hi> But the old man willingly liſted to the Carriers propoſition, and being very deſirous to provide for his ſons good, (as the naturall affection of all Parents towards Children doth greatly oblige) was content that he ſhould goe a long with the Car<g ref="char:EOLhyphen"/>rier, who condtioned with him to bring or ſend backe the Boy in eight daies time at the furtheſt, if he ſhould not take likeing of the promiſed ſervice, thus all parties have concluded, the boy being more inclined to any ſervice then to live with his old Maſter the Weaver. The old man took his leave of them both, bequeathing his ſonne <hi>Io<g ref="char:EOLhyphen"/>ſeph</hi> to the hopefull tuition and cuſtodie of this ſuppoſed Carrier.</p>
+            <p>No ſooner was he departed out of their ſight, but ſuddainely enſu<g ref="char:EOLhyphen"/>ed the beginning of this ſtupendious Miracle, the ending whereof is able to amaze each curious inquiſitour, that ſtudies to prie in the Cabinet of Divine or Humane Miſteries, for in the firſt place, the Horſes and Packes vaniſhed, the timorous Boy beholds his new Ma<g ref="char:EOLhyphen"/>ſter metamorpheſed in a trice from a man to a flying Horſe in a black and vgly ſhape and colour; who now proves ſo officious to his Ser<g ref="char:EOLhyphen"/>vant, that he will cary him upon his owne back, and ſo ſnatches him up ſorthwith into the aire through which he hurrie; him with vio<g ref="char:EOLhyphen"/>lence and motion ſwifter then imagination, ſo that this new Rider was quickly mounted above the midle Region the earth ſeemed un<g ref="char:EOLhyphen"/>to him of a very ſmall proportion, <hi>London</hi> and other magnificent Ci<g ref="char:EOLhyphen"/>ties on greater then ſmall Cottages: and having meaſured the waſt concave of the Moone with more curioſity then <hi>Tycho Branche,</hi> or the ſubtilleſt Aſtrologer could ever invent; they deſcend by and by <hi>Torrenti</hi> ſmile with a more precipitious motion then the Cataracts of the ſeven headed <hi>Nole,</hi> and ſo are plunged into the vaſt Caverners <hi>Neptune,</hi> in whoſe watrie dominions (during the time of this ſhort and miraculous tranſportation) the Boy obſerved the moſt ſtrange and unutterable wonders of the deepe diverſified in more ſeverall peeces,
+<pb n="4" facs="tcp:158892:4"/>
+               <!-- PDF PAGE 40 -->then the wiſeſt Phoyloſophers have hitherto at any time mentioned or expreſſed, at length they came into a profound Cell or Cave, (the earth ſeeming to open it ſelfe) as the ſwallowing up of <hi>Korah Dathan</hi> and <hi>Abiram.</hi>
+            </p>
+            <p>The Devill now diſchargeth his burthen, and aſſumeth a more ter<g ref="char:EOLhyphen"/>rible ſhape then that of the flying Horſe, ſaying to his Gueſt: <hi>Bee not diſmayed, thy employment here ſhall be onely to take a view of divers men, who thou haſt formerly ſeene or knowne in the</hi> Malignant Army, <hi>whoſe baſe courſe of life have occaſioned their ſuddaine and unex<g ref="char:EOLhyphen"/>pected deaths, and now are ſent tame to receive their due recompence for the ſame.</hi> Where upon there inſtantly inſued a moſt hideous and fearfull howling, and a great many gaſtly apparitions preſented them<g ref="char:EOLhyphen"/>ſelves before him, amongſt whom he obſerved many whom he ſup<g ref="char:EOLhyphen"/>poſed to have ſeene before <hi>Langport</hi> fight, who bitterly bewailed their inſupportable paine in theſe words, <hi>Woe, woe, unto us that ever we undertooke the defence of ſuch an unjuſt Cauſe:</hi> But that which made the greateſt impreſſion in the diſtracted fancy of this wreched Spectator was the ſight of Sir <hi>Peter Ball,</hi> (one of the Commiſſioners of <hi>Excester</hi> lately deceaſed) lying all along after a ſtrange manner, his Legs and Feet ſchorching in furious flames, his Buttockes upon a Crediron, his Backe and Shoulders in a frying pan, his Head in a boy<g ref="char:EOLhyphen"/>ling kettle of pitch, bellowing and roaring out in griveous ſort, and curſing the hour of his ativity, with his extorting, coveteouſneſſe, and cheating of the Country. There was preparation made for <hi>Green<g ref="char:EOLhyphen"/>vile</hi> and <hi>Goring,</hi> whoſe places was alloted unto them cloſe by Sir <hi>Pe<g ref="char:EOLhyphen"/>ter Ball,</hi> there to ſtand with three furies attending upon them whoſe Office was foure Ladles of ſcalding Acomite downe their belching throats. Not long after came in the Lady <hi>Scot, Gorings</hi> ſiſter, being uſherd by that immeaſurable luxurie and perjured Caytiffe <hi>Greenvile,</hi> who was to be hung up by the tongue upon hot burning tenter hooks: Laſtly appeared the Lady <hi>Dolkeat,</hi> Nurſe to the young Princeſſe lying at <hi>Bedford</hi> Houſe in <hi>Excester.</hi> All theſe and infinite more were con<g ref="char:EOLhyphen"/>fined to their ſeverall ſtations of tormend, whoſe confuſed eiulations and waylings were too tedious here to relate but were in ſine ſo full of dread and horrour to this wreched Boy, that he earneſtly wiſhed himſelfe out of this place, to undergoe any ſervitude though never ſo miſerable and deplorable.</p>
+            <pb n="5" facs="tcp:158892:4"/>
+            <!-- PDF PAGE 40 -->
+            <p>The time being now expired according to the former contract made which this arch enemy of mankind, whoſe power extends no further then God hath limited, the Boy <hi>Joſeph</hi> was conveyed backe againe to a place named <hi>Cannon Lee</hi> in <hi>Devon,</hi> where he was found by two honeſt Labourers being ſervants to Mr. Juſtice <hi>Cullum</hi> living there, who firſt eſpied him under a Hedge, and comming to him de<g ref="char:EOLhyphen"/>manded what he was, but receiving no anſwer but onely ſignes with his Head, they perceived that he was ſpeechleſſe, and his hands and legs ſtrangely diſtorted, his haire of his head ſingyd, his cloathes all be ſmeared with pitch and roſin, and other ſulfurous matter, which yeelded an odious ſtench; but they commiſerating his miſerable con<g ref="char:EOLhyphen"/>dition, tooke him up betwixt them and carried him home to there Maſters houſe, where he was ſhifted and put in a warme bed, and ſhortly after by meanes of ſome nouriſhing broah given him, was ſo well revived that he then declared unto them his name, birth-place, and his ſtrange journey with the Devill, which ſeemed at firſt redi<g ref="char:EOLhyphen"/>culous to the Juſtice and moſt which heard him, but then a little bet<g ref="char:EOLhyphen"/>ter pondering in what manner he was found and brought to the houſe, he ſent for the old man his father, who comming thither, acknow<g ref="char:EOLhyphen"/>ledged him to be his ſonne, and manner of his departure, with other circumſtances above rehearſed: There were preſent Mr. <hi>Jonathan Gainwell</hi> a very zealous and godly Miniſter of the Pariſh, who tooke ſpeciall notice thereof and gave the Boy very pious admonitions of obedience, which by Gods grace tooke ſuch good effect, that hee there delivered good teſtimonies that he was truely penitent of his former lewd courſes and there reconciled himſelfe to his father, with whom he now liveth and is almoſt cured of that diſtortion of his members.</p>
+            <p>A true information was ſent by Juſtice <hi>Cullum</hi> and Mr. <hi>Gainwell</hi> the Miniſter, unto Major Generall <hi>Maſſie</hi> at <hi>Tiverion,</hi> of all theſe precedent circumſtancies related unto them by the old man and his ſome, which for the noveltie thereof was much admired by all that ever heard it.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The Coppie of a Letter from Maior Generall <hi>Maſſie,</hi> to Mr. <hi>Davenport</hi> a <hi>Cheſhire</hi> Gentleman now reſident in <hi>LONDON.</hi>
+                  </head>
+                  <pb n="6" facs="tcp:158892:5"/>
+                  <!-- PDF PAGE 41 -->
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I <hi>Lately received your Letter wherein you give me notice that my buſines is much retracted, and hath not obtained that hap<g ref="char:EOLhyphen"/>pie iſſue which I expected it ſhould have done. We have no new; at preſent, but ſuch as I ſuppoſe is already come to your eares, onely this wonder here incloſed the true Relation whereof I re<g ref="char:EOLhyphen"/>ceived from Mr.</hi> Cullum <hi>of</hi> Cannons Lee, <hi>a Gentleman of approved integritie and aſtimation in this County: I have ſent you by this bearer a Box of Reliques with a great Crucifix found in</hi> Tiverton <hi>Church in the wall which the Cavaliers had there built for the ſtrenghtning of the porch, which way ſerve as a ſuf<g ref="char:EOLhyphen"/>ficient argument to convince your wives good opinion, which ſhe formerly conceived of thoſe Champions of Antichriſt the Cava<g ref="char:EOLhyphen"/>liers, You ſhall doe me a favour, if you pleaſe to haſten Mr.</hi> Eaſt <hi>about the finiſhing of my Watch, and ſend me halfe a pound of the best ſealing wax, I remaine</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <hi>From</hi> Tiverton, <date>Nov. 18. 1645.</date>
+                     </dateline>
+                     <signed>
+                        <hi>Your faithfull Friend</hi> Edward Maſſie.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me day that the Devill departed from the Boy where the Labourers found him, happened another ſtrange thing worth the re<g ref="char:EOLhyphen"/>lating. The Devill aſſumed his former ſhape of the Carrier, and was encountred upon the way by ſtragling Troopers of the <hi>Malignant Party,</hi> who viewing ſuch faire horſes made themſelves ſure of rich purchaſe, and preſently addreſſed themſelves to plunder, but as they went about it the Catrier and his Horſes ſuddainely vaniſhed away in the flames of fire, leaving three of thoſe Plunderers dead in the place, the reſt ſo terribly ſhaken and almoſt ſtifled with the noyſome ſent of Brimſtone, that they hardly eſcaped to carry newes of this ſtrange accident.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
